@@ -1,0 +1,125 @@
+# Copyright (C) 2023 Hexon BV
+# This file is distributed under the same license as the Stocklist Integrator plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stocklist Integrator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/stocklist-"
+"integrator\n"
+"POT-Creation-Date: 2023-02-22T16:29:09+01:00\n"
+"PO-Revision-Date: 2023-02-22 16:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: stocklist-integrator\n"
+
+#. Plugin Name of the plugin
+msgid "Stocklist Integrator"
+msgstr "Stocklist Integrator"
+
+#. Plugin URI of the plugin
+msgid "https://www.hexon.nl/services/stocklist-integrator/"
+msgstr "https://www.hexon.nl/diensten/stocklist-integrator/"
+
+#. Description of the plugin
+msgid "Integrate the stocklist module to your Wordpress site."
+msgstr "Integreer de voorraadmodule in uw Wordpress website."
+
+#. Author of the plugin
+msgid "Hexon BV"
+msgstr "Hexon BV"
+
+#. Author URI of the plugin
+msgid "https://www.hexon.nl"
+msgstr "https://www.hexon.nl"
+
+#: stocklist-integrator.php:208
+msgid "Settings"
+msgstr "Instellingen"
+
+#: stocklist-integrator.php:209
+msgid "Stocklist provider"
+msgstr "Leverancier"
+
+#: stocklist-integrator.php:214
+msgid ""
+"Please select your provider in the dropdown below. More settings are "
+"available in the configuration screen provided by the stocklist module."
+msgstr ""
+"Selecteer de leverancier van uw voorraadmodule in de keuzelijst hieronder. "
+"Uitgebreide instellingen zijn beschikbaar in het configuratiescherm van de "
+"voorraadmodule."
+
+#: stocklist-integrator.php:222
+msgid "Choose provider"
+msgstr "Selecteer leverancier"
+
+#: stocklist-integrator.php:243
+msgid "Introduction"
+msgstr "Introductie"
+
+#: stocklist-integrator.php:246
+msgid ""
+"The stocklist integrator is a Wordpress plugin that enables you to quickly "
+"and easily insert a stocklist module into your Wordpress site. You wil need "
+"a fully configured stocklist with one of the supported providers (see "
+"settings below)."
+msgstr ""
+"Stocklist integrator is een Wordpress-plugin die het mogelijk maakt om "
+"eenvoudig voorraadlijsten in Wordpress te integreren. Een geconfigureerde "
+"voorraadlijst bij een van de ondersteunde leveranciers (zie hieronder) is "
+"vereist."
+
+#: stocklist-integrator.php:256
+msgid "How to use"
+msgstr "Hoe te gebruiken"
+
+#: stocklist-integrator.php:259
+msgid "You can use the following shortcode:"
+msgstr "Gebruik de volgende shortcode:"
+
+#: stocklist-integrator.php:263
+msgid ""
+"Replace <tt>abcd</tt> with the code of your stocklist. Insert the shortcode "
+"on the page where you want the stocklist to appear."
+msgstr ""
+"Vervang <tt>abcd</tt> door de code van uw voorraadlijst. Plaats de shortcode "
+"vervolgens op de pagina waar de voorraadlijst getoond moet worden."
+
+#: stocklist-integrator.php:267
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: stocklist-integrator.php:270
+msgid "To display a carousel use the following shortcode:"
+msgstr ""
+"De volgende shortcode kan gebruikt worden om een carrousel weer te geven:"
+
+#: stocklist-integrator.php:274
+msgid ""
+"Replace <tt>abcd</tt> with the code of your stocklist. Amount is the number "
+"of vehicles to be displayed."
+msgstr ""
+"Vervang <tt>abcd</tt> door de code van uw voorraadlijst. Met <code>amount</"
+"code> kan het aantal voertuigen gewijzigd worden."
+
+#: stocklist-integrator.php:278
+msgid "Search form"
+msgstr "Zoekformulier"
+
+#: stocklist-integrator.php:281
+msgid "To add a search form use the following shortcode:"
+msgstr ""
+"Om een zoekformulier toe te voegen kan de volgende shortcode gebruikt worden:"
+
+#: stocklist-integrator.php:285
+msgid ""
+"Replace <tt>abcd</tt> with the code of your stocklist. You can configure the "
+"form in the stocklist configurator."
+msgstr ""
+"Vervang <tt>abcd</tt> door de code van uw voorraadlijst. Het zoekformulier "
+"kan op de instellingenpagina van de voorraadmodule aangepast worden."
